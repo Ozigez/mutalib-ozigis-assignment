@@ -51,7 +51,7 @@ for (let i = 0; i < arrayOfNumbers.length; i++) {
  * E.g 51.21 should just be 51 (hint: Math.trunc(...) function)
  * If you did Challenge - 3, remove the comment in the line just after this function
  * 
- * See https://www.thoughtco.com/celcius-to-farenheit-formula-609227 for the conversion formula
+ * See https://www.thoughtco.com/celcius-to-farenheit-formula-609227 for the conversion formaula
  * 
  * @param {Array} arrayOfNumbers the array containing temperatures in Celsius to be converted
  * @returns Array the converted temperatures in Fahrenheit

@@ -36,7 +36,7 @@ function countEvenNumbers(arrayOfNumbers) {
    let evensum = 0
 for (let i = 0; i < arrayOfNumbers.length; i++) {
   if (arrayOfNumbers[i]%2===0) {
-    evensum += arrayOfNumbers[i]
+    evensum ++
   }
 } return evensum
 }
